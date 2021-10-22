@@ -1,0 +1,67 @@
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.studio:hover {
+  color: #2196f3;
+}
+.studio:focus {
+  color: aqua;
+}
+.solutions {
+  background-color: #2f303a;
+  color: #ffffff;
+  font-weight: 696px;
+  height: 120px;
+}
+
+.btn-service {
+  background-color: #2196f3;
+  color: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+}
+
+h3 {
+  color: #212121;
+  font-weight: 700;
+  font-size: 14px;
+}
+p {
+  color: #757575;
+  font-weight: 400;
+  font-size: 14px;
+}
+.our-team {
+  background-color: #f5f4fa;
+}
+
+.dedicated {
+  color: #212121;
+  font-weight: 700;
+  font-size: 18px;
+}
+.pale {
+  color: #757575;
+  font-weight: 400;
+  font-size: 16px;
+}
+.control > li > button:hover {
+  background-color: #2196f3;
+}
+footer {
+  background-color: #2f303a;
+}
+.nav-f {
+  color: #ffffff;
+}
+address {
+  font-style: normal;
+}
