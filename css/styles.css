@@ -1,17 +1,24 @@
 a {
   text-decoration: none;
+  color: #000000;
 }
+
 li {
   list-style-type: none;
 }
 body {
   font-family: "Roboto", sans-serif;
 }
-.studio:hover {
+.nav-link:hover {
   color: #2196f3;
 }
-.studio:focus {
-  color: aqua;
+
+.studio {
+  color: #2196f3;
+}
+
+.portfolio {
+  color: #2196f3;
 }
 .solutions {
   background-color: #2f303a;
@@ -56,11 +63,18 @@ p {
 .control > li > button:hover {
   background-color: #2196f3;
 }
+.all {
+  background-color: #2196f3;
+}
 footer {
   background-color: #2f303a;
 }
 .nav-f {
   color: #ffffff;
+}
+.nav-f:hover {
+  color: #ffffff;
+  font-size: large;
 }
 address {
   font-style: normal;
