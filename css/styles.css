@@ -26,6 +26,16 @@ body {
   font-size: 14px;
   font-weight: 500;
 }
+.mail {
+  color: #2196f3;
+  font-size: 14px;
+  font-weight: 500;
+}
+.phone {
+  color: #757575;
+  font-size: 14px;
+  font-weight: 500;
+}
 .nav-link:hover {
   color: #2196f3;
 }
@@ -40,8 +50,6 @@ body {
 .solutions {
   background-color: #2f303a;
   color: #ffffff;
-  font-weight: 696px;
-  height: 120px;
 }
 .center-solution {
   font-weight: 900;
